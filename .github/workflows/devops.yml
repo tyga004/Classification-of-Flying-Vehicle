@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt  # Replace with the correct name of your requirements file if applicable
 
       - name: Run Tests
-        run: python your_test_script.py  # Replace with the actual name of your Python test script
+        run: python app.py  # Replace with the actual name of your Python test script
